@@ -18,23 +18,23 @@ cd sushi-chatbot
 
 Instalar dependencias
 
-bashCopy# Instalar dependencias del proyecto
+Instalar dependencias del proyecto
 npm run install-all
 
 Configurar variables de entorno
 
-bashCopy# Copiar el archivo de ejemplo
+Copiar el archivo de ejemplo
 cp .env.example .env
 # Editar .env con tus credenciales
 
 Cargar datos iniciales
 
-bashCopycd server
+cd server
 node seeds/productSeeds.js
 
 Iniciar el proyecto
 
-bashCopy# En la raíz del proyecto
+En la raíz del proyecto
 npm run dev
 🤖 Ejemplos de mensajes para el Chatbot
 El chatbot puede entender y responder a:
