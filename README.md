@@ -1,4 +1,4 @@
-markdownCopy# Sushi Shop Chatbot
+Sushi Shop Chatbot
 
 Un chatbot interactivo para realizar pedidos de sushi, construido con React, Node.js y MongoDB.
 
